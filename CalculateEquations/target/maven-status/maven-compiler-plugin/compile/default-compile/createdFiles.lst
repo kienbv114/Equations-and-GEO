@@ -1,0 +1,7 @@
+Model\Superlative.class
+main.class
+Model\Quadratic.class
+Controller\Management.class
+View\Menu.class
+lib\Algorithm.class
+utils\Validation.class
